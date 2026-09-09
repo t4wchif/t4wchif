@@ -43,17 +43,9 @@
 
 ## 👨‍💻 About Me
 
-```js
-const tawchiful = {
-  role       : "Full-Stack Web Developer",
-  frontend   : ["TypeScript", "JavaScript (ES6+)", "React.js", "Next.js (App Router)", "Tailwind CSS"],
-  backend    : ["Node.js", "Express.js", "PostgreSQL", "Prisma", "MongoDB Atlas", "JWT Auth"],
-  learning   : ["Advanced React Patterns", "JS Internals", "Performance Optimization"],
-  portfolio  : "https://tawchif.vercel.app",
-  contact    : "tawchif04@gmail.com",
-};
+I'm Tawchiful Islam, a full-stack web developer based in Chittagong, Bangladesh, with a strong focus on frontend engineering. I enjoy building clean, scalable web applications with React, Next.js, Node.js, and MongoDB, and I put a lot of thought into making interfaces intuitive while keeping the code maintainable. Lately, I've been diving deeper into advanced React patterns, JavaScript internals, and performance optimization through hands-on projects.
 
-```
+For me, good development comes down to simplicity and clarity, both in design and in code. I write things that are easy to read, test, and build on, because that's what holds up as a project grows.
 
 <br/>
 
@@ -100,7 +92,7 @@ const tawchiful = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=5000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=Building+one+project+at+a+time+%E2%80%94+consistently." alt="Footer quote" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=1000&color=6C63FF&center=true&vCenter=true&width=460&lines=Building+one+project+at+a+time%2C+consistently." alt="Footer quote" />
 
 <br/><br/>
 
